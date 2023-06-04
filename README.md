@@ -4,6 +4,8 @@ The API and JavaScript code in this repository are part of a take home assignmen
 
 ## How to run the application
 
+First of all, please run **mvn clean install** so that all packages can be retrieved.
+
 The application can be run with the **mvn spring-boot:run** command inside a terminal window, or by opening the project in an IDE like IntelliJ and running it from there.
 
 ## How to run the JavaScript client-side code
